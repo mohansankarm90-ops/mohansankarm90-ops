@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohanasankar%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=EEE%20%7C%20TinyML%20%7C%20Edge%20AI%20%7C%20Energy%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.E.+EEE+%40+SKCET+Coimbatore+%F0%9F%8E%93;TinyML+%2F+Edge+AI+Researcher+%F0%9F%A7%A0;Hybrid+EMS+%7C+MATLAB+%7C+Python+%F0%9F%94%8B;Targeting+NVIDIA+%2F+Qualcomm+tier+%F0%9F%9A%80;Polymath+in+Progress+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.E.+EEE+%40+SKCET+Coimbatore+%F0%9F%8E%93;TinyML+%2F+Edge+AI+Researcher+%F0%9F%A7%A0;Hybrid+EMS+%7C+MATLAB+%7C+Python+%F0%9F%94%8B;Polymath+in+Progress+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,16 +19,15 @@
 
 ---
 
-## 🧠 I'm Mohanasankar!
+##Hi.. I'm MOHANASANKAR..!👋🏼
 
 **Electrical & Electronics Engineering student** building at the intersection of embedded systems, machine learning, and energy infrastructure.
 
 - 🎓 2nd Year B.E. EEE @ SKCET, Coimbatore
 - 🔬 Research: Hybrid PV–Wind–Battery–H₂ EMS optimization — 20 years NASA POWER data, 4 metaheuristic algorithms
-- 🎯 Long-term target: **TinyML / Edge AI @ NVIDIA or Qualcomm**
-- ⚡ Family connection to TNEB — grid and infrastructure problems are personal
+- 🎯 Long-term target: **TinyML / Edge AI @ NVIDIA / Qualcomm**.
 - 🧩 Polymath in progress — EEE + embedded + AI intersection
-- 📍 From Villupuram, Tamil Nadu
+- 📍 From Villupuram, Tamil Nadu, India.
 
 ---
 
