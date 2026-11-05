@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohanasankar%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=EEE%20%7C%20TinyML%20%7C%20Edge%20AI%20%7C%20Energy%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohanasankar%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=EEE%20%7C%20TinyML%20%7C%20Edge%20AI%20%7C%20Energy%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.E.+EEE+%40+SKCET+Coimbatore+%F0%9F%8E%93;TinyML+%2F+Edge+AI+Researcher+%F0%9F%A7%A0;Hybrid+EMS+%7C+MATLAB+%7C+Python+%F0%9F%94%8B;Polymath+in+Progress+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -19,15 +19,15 @@
 
 ---
 
-##Hi.. I'm MOHANASANKAR..!👋🏼
+## 👋🏼 Hi, I'm MOHANASANKAR!
 
 **Electrical & Electronics Engineering student** building at the intersection of embedded systems, machine learning, and energy infrastructure.
 
-- 🎓 2nd Year B.E. EEE @ SKCET, Coimbatore
-- 🔬 Research: Hybrid PV–Wind–Battery–H₂ EMS optimization — 20 years NASA POWER data, 4 metaheuristic algorithms
-- 🎯 Long-term target: **TinyML / Edge AI @ NVIDIA / Qualcomm**.
-- 🧩 Polymath in progress — EEE + embedded + AI intersection
-- 📍 From Villupuram, Tamil Nadu, India.
+- 🎓 **2nd Year B.E. EEE** @ SKCET, Coimbatore
+- 🔬 **Research:** Hybrid PV–Wind–Battery–H₂ EMS optimization — 20 years NASA POWER data, 4 metaheuristic algorithms
+- 🎯 **Long-term target:** TinyML / Edge AI @ NVIDIA / Qualcomm.
+- 🧩 **Polymath in progress** — EEE + embedded + AI intersection
+- 📍 **From:** Villupuram, Tamil Nadu, India.
 
 ---
 
@@ -86,12 +86,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohansankarm90-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=mohansankarm90-ops&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohansankarm90-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=mohansankarm90-ops&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansankarm90-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohansankarm90-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" width="45%" alt="Top Languages"/>
 
 </div>
 
@@ -101,17 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohansankarm90-ops&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="100%"/>
-
-</div>
-
----
-
-## 🗂️ GitHub Metrics
-
-<div align="center">
-
-<img src="./metrics.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohansankarm90-ops&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -141,7 +131,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 *SKCET · Coimbatore · Built with ❤️ and lots of MATLAB*
 
